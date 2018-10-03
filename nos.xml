@@ -29,7 +29,7 @@
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>
 
-    <project path="bionic" name="android_bionic" remote="nos" revision="p"/>
+    <project path="bionic" name="android_bionic" remote="mod" revision="p"/>
 
     <project path="bootable/recovery" name="android_bootable_recovery" remote="nos" revision="p" />
 
