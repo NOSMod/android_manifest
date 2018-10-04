@@ -67,7 +67,7 @@
     <project path="hardware/ril" name="android_hardware_ril" remote="nos" revision="p" />
 
     <!-- frameworks -->
-    <project path="frameworks/av" name="android_frameworks_av" remote="nos" revision="p" />
+    <project path="frameworks/av" name="android_frameworks_av" remote="mod" revision="p" />
     <project path="frameworks/base" name="android_frameworks_base" remote="mod" revision="p" />
     <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="nos" revision="p" />
     <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="nos" revision="p" />
