@@ -61,6 +61,7 @@
     <project path="hardware/nxp/nfc" name="android_hardware_nxp_nfc" remote="nos" revision="p" />
     <project path="hardware/interfaces" name="android_hardware_interfaces" remote="nos" revision="p" />
     <project path="hardware/qcom/bt" name="android_hardware_qcom_bt" remote="nos" revision="p" />
+    <project path="hardware/qcom/bt-caf" name="android_hardware_qcom_bt-caf" remote="mod" revision="p-caf" />
     <project path="hardware/ril" name="android_hardware_ril" remote="nos" revision="p" />
 
     <!-- frameworks -->
