@@ -30,13 +30,13 @@ To initialize your local repository use
 Then to sync up:
 ----------------
 
-    repo sync -j 16
+    repo sync -c -f -j8 --force-sync --no-clone-bundle --no-tags
 
 Build command is
 ----------------
     . build/envsetup.sh
-    lunch nitrogen_oneplus3-userdebug
-    make -j 7 otapackage
+    lunch aosp_$device-userdebug
+    make otapackage -j8
 
 Official supported Devices
 -----------------
