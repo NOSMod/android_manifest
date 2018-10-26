@@ -75,7 +75,7 @@
     <project path="frameworks/base" name="android_frameworks_base" remote="mod" revision="p" />
     <project path="frameworks/compile/mclinker" name="android_frameworks_compile_mclinker" remote="nos" revision="p" />
     <project path="frameworks/opt/net/wifi" name="android_frameworks_opt_net_wifi" remote="nos" revision="p" />
-    <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="nos" revision="p" />
+    <project path="frameworks/opt/telephony" name="android_frameworks_opt_telephony" remote="mod" revision="p" />
     <project path="frameworks/native" name="android_frameworks_native" remote="mod" revision="p" />
 
     <!-- packages -->
@@ -102,7 +102,7 @@
     <project path="vendor/qcom/opensource/dataservices" name="android_vendor_qcom_opensource_dataservices" remote="nos" revision="p" />
     <project path="vendor/qcom/opensource/interfaces" name="android_vendor_qcom_opensource_interfaces" remote="nos" revision="p" />
     <project path="vendor/qcom/opensource/dpm" name="android_vendor_qcom_opensource_dpm" remote="nos" revision="p" />
-    <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="nos" revision="p" />
+    <project path="vendor/codeaurora/telephony" name="android_vendor_codeaurora_telephony" remote="mod" revision="p" />
 
     <!-- qcom -->
     <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="nos" revision="p" />
