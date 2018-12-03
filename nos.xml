@@ -50,7 +50,7 @@
     <project path="system/core" name="android_system_core" remote="mod" revision="p" />
     <project path="system/extras" name="android_system_extras" remote="nos" revision="p" />
     <project path="system/sepolicy" name="android_system_sepolicy" remote="nos" revision="p" />
-    <project path="system/vold" name="android_system_vold" remote="nos" revision="p" />
+    <project path="system/vold" name="android_system_vold" remote="mod" revision="p" />
 
     <!-- hardware -->
     <project path="hardware/libhardware" name="android_hardware_libhardware" remote="nos" revision="p" />
